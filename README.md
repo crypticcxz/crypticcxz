@@ -21,6 +21,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=crypticcxz&show_icons=true&locale=en&layout=compact" alt="crypticcxz" /></p>
 
-<a href="https://www.instagram.com/thepiyushmalhotra/">
-  <img height="50" src="[https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png](https://giphy.com/gifs/PizzaNinjas-programmer-pizza-ninjas-pizzaninjas-78XCFBGOlS6keY1Bil)"/>
+<a>
+  <img height="50" src="https://giphy.com/gifs/PizzaNinjas-programmer-pizza-ninjas-pizzaninjas-78XCFBGOlS6keY1Bil"/>
 </a>
