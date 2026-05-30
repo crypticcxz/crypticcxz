@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=crypticcxz&label=Profile%20views&color=0e75b6&style=flat" alt="crypticcxz" /> </p>
 
-- 🔭 I’m currently working on [Agentive](agentive.ai)
+- 🔭 I’m currently working on [Agentive](agentve.ai)
 
 - 🌱 I’m currently learning **AI/ML and agentic AI**
 
