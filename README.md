@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=crypticcxz&label=Profile%20views&color=0e75b6&style=flat" alt="crypticcxz" /> </p>
 
-- 🔭 I’m currently working on [Agentive]([agentve.ai](https://agentve.ai))
+- 🔭 I’m currently working on [Agentive](https://agentve.ai)
 
 - 🌱 I’m currently learning **AI/ML and agentic AI**
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **cryp219@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1hV5biP1GPjmPeykbX29jg4JsxaYoFKC9/view?usp=drive_link](https://drive.google.com/file/d/1hV5biP1GPjmPeykbX29jg4JsxaYoFKC9/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1hV5biP1GPjmPeykbX29jg4JsxaYoFKC9/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
